@@ -1,0 +1,27 @@
+#success-stories {
+    padding: 60px 20px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .testimonials {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .testimonial {
+    flex: 1;
+    min-width: 300px;
+    max-width: 400px;
+    margin: 20px;
+    padding: 20px;
+    background: #f3f4f6;
+    border-radius: 10px;
+  }
+  
+  .testimonial blockquote {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 10px;
+  }  

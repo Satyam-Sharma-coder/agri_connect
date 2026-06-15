@@ -1,0 +1,11 @@
+#video-section {
+    padding: 60px 20px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .video-container {
+    margin: 20px auto;
+    max-width: 100%;
+  }
+  

@@ -1,0 +1,22 @@
+#key-features {
+    padding: 60px 20px;
+    background-color: #f3f4f6;
+    text-align: center;
+  }
+  
+  .features-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .feature-item {
+    flex: 1;
+    min-width: 300px;
+    max-width: 400px;
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }  

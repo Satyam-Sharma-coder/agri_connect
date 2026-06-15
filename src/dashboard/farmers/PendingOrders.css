@@ -1,0 +1,25 @@
+/* Pending Orders Widget Styling */
+.pending-orders {
+    text-align: center;
+  }
+  
+  .pending-orders h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .pending-orders ul {
+    list-style-type: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;
+  }
+  
+  .pending-orders ul li {
+    background-color: #f3f4f6;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    color: #333;
+    font-size: 1em;
+  }
+  

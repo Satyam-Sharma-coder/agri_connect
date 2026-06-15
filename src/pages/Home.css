@@ -1,0 +1,47 @@
+/* Container styling for the home page */
+.home {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center content horizontally */
+    justify-content: center; /* Center content vertically */
+    min-height: 80vh; /* Occupy at least 80% of viewport height */
+    padding: 20px;
+    background-color: #f3f4f6; /* Light grey background */
+    text-align: center; /* Center-align text */
+  }
+  
+  /* Styling for the main heading */
+  .home h1 {
+    font-size: 2.5em; /* Large font size for the heading */
+    color: #4CAF50; /* Green text color */
+    margin-bottom: 20px; /* Space below the heading */
+  }
+  
+  /* Styling for the paragraph text */
+  .home p {
+    font-size: 1.2em; /* Slightly larger font size */
+    color: #555; /* Medium grey text color */
+    line-height: 1.6; /* Increase line height for readability */
+    margin-bottom: 20px; /* Space below the paragraph */
+  }
+  
+  /* Styling for buttons */
+  .home .button {
+    padding: 10px 20px; /* Padding inside the button */
+    margin: 10px; /* Space between buttons */
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1em; /* Standard font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    text-transform: uppercase; /* Uppercase text */
+    font-weight: bold; /* Bold text */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  /* Hover effect for buttons */
+  .home .button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  

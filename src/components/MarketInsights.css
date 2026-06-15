@@ -1,0 +1,20 @@
+#market-insights {
+    padding: 60px 20px;
+    background-color: #f3f4f6;
+    text-align: center;
+  }
+  
+  .statistics ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .statistics ul li {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .environmental-impact p {
+    font-size: 18px;
+  }
+  

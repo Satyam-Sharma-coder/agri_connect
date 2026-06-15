@@ -1,0 +1,29 @@
+/* Header Styling */
+.farmer-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Green background color */
+    color: #fff; /* White text color */
+  }
+  
+  /* Welcome Message Styling */
+  .welcome-message h2 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  /* Navigation Links */
+  .dashboard-nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Hover Effect */
+  .dashboard-nav a:hover {
+    text-decoration: underline;
+  }
+  

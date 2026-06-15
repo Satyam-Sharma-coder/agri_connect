@@ -1,0 +1,21 @@
+/* Revenue Overview Widget Styling */
+.revenue-overview {
+    text-align: center;
+  }
+  
+  .revenue-overview h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .revenue-overview p {
+    font-size: 1em;
+    margin: 5px 0;
+    color: #333;
+  }
+  
+  .revenue-overview p.total {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  

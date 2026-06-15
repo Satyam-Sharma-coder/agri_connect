@@ -1,0 +1,21 @@
+/* Tips and Recommendations Widget Styling */
+.tips-recommendations {
+    text-align: center;
+  }
+  
+  .tips-recommendations h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .tips-recommendations p {
+    font-size: 1em;
+    margin: 5px 0;
+    color: #333;
+  }
+  
+  .tips-recommendations p.highlight {
+    font-weight: bold;
+    color: #4CAF50; /* Green text color */
+  }
+  

@@ -1,0 +1,25 @@
+/* Waste Upload Widget Styling */
+.waste-upload {
+    text-align: center;
+  }
+  
+  .waste-upload h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .waste-upload button {
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Green background color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+  }
+  
+  .waste-upload button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
